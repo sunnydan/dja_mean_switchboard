@@ -1,4 +1,6 @@
-# Switchboard
+#Switchboard
+
+Create a row of switches. Upon clicking any one of the switches, change the switch from 'ON' text with a green background, to 'OFF' text and red background. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
 

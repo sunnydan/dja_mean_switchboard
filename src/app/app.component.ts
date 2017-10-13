@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  state = [true,true,true,true,true,true,true,true];
+
+  toggle(index: number) {
+    this.state[index] = !this.state[index];
+  }
 }
